@@ -1,6 +1,6 @@
 #This is a sample game that uses the ask() function from the textgame module
 
-from luke_adventure_game_module import ask
+from textgame import ask
 
 def start():
     print("It was a dark and stormy night...")
