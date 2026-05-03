@@ -1,6 +1,5 @@
 #textgame - Luke's Adventure Game Module
 #Last updated May 3rd, 2026
-#haha I am still learning how git works
 
 def ask(*options):
     print("")
